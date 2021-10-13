@@ -11,3 +11,4 @@ for switch in ip_list.readlines():
     #print(switch_ip)
     print(switch_ip[0])
     print(switch_ip[1])
+    print(type(switch_ip[0]))
